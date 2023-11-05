@@ -1,0 +1,27 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    color: rgb(252, 253, 253);
+    background-image: url("https://st4.depositphotos.com/1017251/i/600/depositphotos_236298118-stock-photo-four-aces-folded-green-casino.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+h1{
+    color: rgb(233, 213, 33);
+}
+#msg{
+    font-style: italic;
+}
+#start-btn{
+    color: rgb(53, 133, 26);
+}
+#card-btn{
+    color: rgb(53, 133, 26);
+}
+button{
+    padding: 1%;
+    background-color: rgb(233, 213, 33);;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bolder;
+}
